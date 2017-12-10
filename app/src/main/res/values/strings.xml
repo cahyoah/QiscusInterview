@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TesQiscus</string>
+
+    <string name="text_reload">Reload</string>
+    <string name="text_product_name">Product Name</string>
+    <string name="text_product_price">Product Price</string>
+    <string name="text_product_description">Product Description</string>
+    <string name="text_total_review">Total Review</string>
+    <string name="text_author">Author</string>
+    <string name="text_body">Body</string>
+    <string name="text_add_product">Add Product</string>
+    <string name="text_check_intenet_connection">Please Check Your Internet Connection</string>
+    <string name="text_no_data_found">No Data Found</string>
+    <string name="text_complete_data">Please Complete Your Product Detail</string>
+    <string name="text_add_product_failed">Adding Product Failed</string>
+    <string name="text_add_product_succes">Adding Product Success</string>
+    <string name="text_no_review">No Review For This Product</string>
+
+</resources>
